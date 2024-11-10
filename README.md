@@ -10,6 +10,8 @@ Abstract: The deep neural networks are known to be vulnerable to well-designed a
 
 For the pre-trained GAN-bsed model, we use the code from [deepfillv2-pytorch](https://github.com/nipponjo/deepfillv2-pytorch), a PyTorch reimplementation of DeepFillv2 based on the [original TensorFlow implementation](https://github.com/JiahuiYu/generative_inpainting).
 
+If you have any questions, please feel free to contact me by guang.lin@riken.jp
+
 ### Citation
 ```
 @article{lin2024adversarial,
